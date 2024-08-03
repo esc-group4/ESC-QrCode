@@ -1,0 +1,8 @@
+/* src/components/QRScanner/QRScanner.css */
+.qr-scanner {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
